@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/drawable-v24/ic_baseline_brightness.xml" value="0.1125" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/drawable/ic_baseline_brightness_5_24.xml" value="0.1015" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1015" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/layout/activity_main2.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/biswatest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/ctest2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.118" />
         <entry key="..\:/Users/Biswadeep/AndroidStudioProjects/ctest2/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
     </option>
